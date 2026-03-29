@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Inventory Management System, Price Comparison Website, and Python-based Projects<br>I’m looking to collaborate on Python, Data Analytics, and Web Development Projects<br>I’m looking for help with Advanced Backend Development and Deployment<br>I’m currently learning Machine Learning, Flask, and GitHub Project Management<br>Python, Data Science, SQL, and Web Project Development<br>I enjoy turning project ideas into practical working systems
+B.Tech CSE (Data Science) student skilled in Python, SQL, Java, and Web Development. Passionate about building real-world, data-driven projects, learning new technologies, and solving practical problems.
 
 
 ## 🌐 Socials:
